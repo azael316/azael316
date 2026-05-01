@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy Joshua / Machine Learning Engineer y Data Scientist ✨ </h1> 
+<h1 align="center">Hola soy Joshua / Machine Learning Engineer y Data Scientist  </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/azael-sanchez-cruz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -11,9 +11,21 @@
 <p align="left">
 🎓 FÍSICO
 
-💻 Usuarion de Linux Ubuntu, 5 años de experiencia programando en python (numpy, pandas, pytorch, matplotlib), C, C++ y FORTRAN90. Un par de años usando SQL, R, Excel, Tableau y PowerBI.
+💻 Usuarion de Linux Ubuntu, 5 años de experiencia programando en python (numpy, pandas, pytorch, matplotlib), C, C++ y FORTRAN90.
 
-📝 Proyectos hechos: Instalación de sistema operativos, configuración de bases de datos e implementación de una plataforma modle en servidores. Optimización de transporte de plasma mediante una red neuronal.
+Un par de años usando SQL, R, Excel, Tableau y PowerBI.
+
+📝 Proyectos: 
+
+Análisis de riesgo en el área inmobiliaria.
+
+Análisis de marketing y ventas de supermercados.
+
+Presentación de dashboards con KPI's.
+
+Artículo sobre la optimización del transporte de plasma mediante con redes neuronales.
+
+Libros de física (en edición continua).
 
 📫 Contacto: **azael.snch.crz@gmail.com**
 <!--Intro end-->
